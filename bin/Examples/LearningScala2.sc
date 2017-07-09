@@ -9,6 +9,7 @@ object LearningScala2 {
   } else {
   	println("The world makes sense.")
   }
+	//No it Doesn't lol
   
   // Matching - like switch in other languages:
   val number = 3
